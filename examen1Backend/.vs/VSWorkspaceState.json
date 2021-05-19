@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\financialapp.api-master",
+    "\\financialapp.api-master\\FinancialApp.API",
+    "\\financialapp.api-master\\FinancialApp.API\\Controllers",
+    "\\financialapp.api-master\\FinancialApp.Core",
+    "\\financialapp.api-master\\FinancialApp.Core\\Entities",
+    "\\financialapp.api-master\\FinancialApp.Infrastructure",
+    "\\financialapp.api-master\\FinancialApp.Infrastructure\\Configurations"
+  ],
+  "SelectedNode": "\\financialapp.api-master\\FinancialApp.Infrastructure\\Configurations\\AccountConfiguration.cs",
+  "PreviewInSolutionExplorer": false
+}
